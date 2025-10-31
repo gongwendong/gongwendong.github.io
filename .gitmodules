@@ -1,0 +1,3 @@
+[submodule "gwdgithubnom.github.io"]
+	path = gwdgithubnom.github.io
+	url = git@github.com:gwdgithubnom/gwdgithubnom.github.io.git
